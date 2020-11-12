@@ -1,7 +1,7 @@
 # big file 
 *.zip 
 *.weights
-
+.checkpoints/
 
 # VSCode
 
